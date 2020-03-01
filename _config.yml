@@ -26,7 +26,7 @@ projects:
     archived: false
     forks: true
     projects:
-        speech-enhancement-IITGN
+        - speech-enhancement-IITGN
 
 # social_media:
   # behance: your_username
